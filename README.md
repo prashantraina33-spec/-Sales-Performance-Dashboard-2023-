@@ -21,11 +21,17 @@ This Power BI dashboard analyzes sales performance, targets, and customer insigh
 
 ## 📷 Dashboard Preview
 
-<img width="1130" height="640" alt="Overall Dashboard Image" src="https://github.com/user-attachments/assets/d8a6c28d-84d3-4aea-8a6c-80086602a510" />
+<img width="1130" height="640" alt="Overall Dashboard Image" src="https://github.com/user-attachments/assets/d8a6c28d-84d3-4aea-8a6c-80086602a510" 
+
+  
 
 <img width="1451" height="575" alt="KPI Image" src="https://github.com/user-attachments/assets/cbdc5b6a-8605-4ea5-849b-b45e0ea4686c" />
 
+
+
 <img width="1282" height="226" alt="Category Image" src="https://github.com/user-attachments/assets/b6624068-bf0f-4f98-b217-9be53dfdd38c" />
+
+
 
 
 ## 📂 Files

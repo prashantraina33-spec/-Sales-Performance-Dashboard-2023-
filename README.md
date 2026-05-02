@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (2023)
 
 ## 📊 Overview
-This Power BI dashboard analyzes sales performance, targets, and customer insights.
+This Power BI dashboard provides a detailed analysis of sales performance, target achievement, and customer behavior for 2023. It combines KPIs, trend analysis, and category-level insights to help track business performance and identify gaps. Power BI dashboards present data in a single interactive view for decision-making
 
 ## 🎯 Objectives
 - Compare actual revenue vs target

@@ -41,3 +41,24 @@ This Power BI dashboard provides a detailed analysis of sales performance, targe
 1. Download .pbix file
 2. Open in Power BI
 3. Explore dashboard
+
+
+## ✅ Conclusion
+This Power BI dashboard offers a complete picture of 
+2023 sales performance, highlighting critical gaps 
+and opportunities. Key takeaways include:
+
+- Total revenue of 12M fell short of the 13M target 
+  by -534K, signaling areas for improvement
+- November was the strongest sales month, showing 
+  clear seasonal peaks
+- 41.88% inactive customers indicate a major 
+  retention challenge
+- Sales are evenly distributed across categories 
+  (A, B, C, D) at ~3.1M each
+- Manager-level analysis helps identify top and 
+  underperforming sales POCs
+
+This dashboard empowers business leaders to make 
+data-driven decisions — improving target alignment, 
+customer retention, and overall sales strategy for 2024.
